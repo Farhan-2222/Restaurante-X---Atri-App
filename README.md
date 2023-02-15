@@ -1,2 +1,2 @@
-# Restaurante-X---Atri-App
+# Restaurante-X  Atri-App
 It is a clone of atri app.
